@@ -1,2 +1,2 @@
 # Berkeley-MIDS
-A link to the official Berkeley MIDS GitHub Organization
+[http://github.com/berkeley-MIDS](http://github.com/berkeley-MIDS)
